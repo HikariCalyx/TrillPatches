@@ -1,0 +1,9 @@
+[patch]
+title = "ドロエグゼ + ORE_SoundMod_extend"
+authors = [
+	"オレ{Ore} <oreo7863@gmail.com>",
+	"Miol <miol20xx@gmail.com>"
+]
+
+[versions.'1.0.0']
+netplay_compatibility = "exe6"
