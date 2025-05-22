@@ -10,3 +10,6 @@ netplay_compatibility = "bn6"
 
 [versions.'2.0.0']
 netplay_compatibility = "bn6"
+
+[versions.'2.0.1']
+netplay_compatibility = "bn6"
