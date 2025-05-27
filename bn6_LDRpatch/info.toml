@@ -4,6 +4,100 @@ authors = ["LDR100"]
 
 source = "https://drive.google.com/drive/folders/17M6CSQt8WcYeJbR0HprAUYgXIRwk4ePH"
 
+[versions.'1.0.0']
+netplay_compatibility = "bn6_ldrv0"
+[versions.'1.0.1']
+netplay_compatibility = "bn6_ldrv1"
+[versions.'1.0.2']
+netplay_compatibility = "bn6_ldrv2"
+[versions.'1.0.3']
+netplay_compatibility = "bn6_ldrv3"
+[versions.'1.0.4']
+netplay_compatibility = "bn6_ldrv4"
+[versions.'1.0.5']
+netplay_compatibility = "bn6_ldrv5"
+[versions.'1.0.6']
+netplay_compatibility = "bn6_ldrv6"
+[versions.'1.0.7']
+netplay_compatibility = "bn6_ldrv7"
+[versions.'1.0.8']
+netplay_compatibility = "bn6_ldrv8"
+[versions.'1.0.9']
+netplay_compatibility = "bn6_ldrv9"
+[versions.'1.1.0']
+netplay_compatibility = "bn6_ldrv10"
+[versions.'1.1.1']
+netplay_compatibility = "bn6_ldrv11"
+[versions.'1.1.2']
+netplay_compatibility = "bn6_ldrv12"
+[versions.'1.1.3']
+netplay_compatibility = "bn6_ldrv13"
+[versions.'1.1.4']
+netplay_compatibility = "bn6_ldrv14"
+[versions.'1.1.5']
+netplay_compatibility = "bn6_ldrv15"
+[versions.'1.1.6']
+netplay_compatibility = "bn6_ldrv16"
+[versions.'1.1.7']
+netplay_compatibility = "bn6_ldrv17"
+[versions.'1.1.8']
+netplay_compatibility = "bn6_ldrv18"
+[versions.'1.1.9']
+netplay_compatibility = "bn6_ldrv19"
+[versions.'1.2.0']
+netplay_compatibility = "bn6_ldrv20"
+[versions.'1.2.1']
+netplay_compatibility = "bn6_ldrv21"
+[versions.'1.2.2']
+netplay_compatibility = "bn6_ldrv22"
+[versions.'1.2.3']
+netplay_compatibility = "bn6_ldrv23"
+[versions.'1.2.4']
+netplay_compatibility = "bn6_ldrv24"
+[versions.'1.2.5']
+netplay_compatibility = "bn6_ldrv25"
+[versions.'1.2.6']
+netplay_compatibility = "bn6_ldrv26"
+[versions.'1.2.7']
+netplay_compatibility = "bn6_ldrv27"
+[versions.'1.2.8']
+netplay_compatibility = "bn6_ldrv28"
+[versions.'1.2.9']
+netplay_compatibility = "bn6_ldrv29"
+[versions.'1.3.0']
+netplay_compatibility = "bn6_ldrv30"
+[versions.'1.3.1']
+netplay_compatibility = "bn6_ldrv31"
+[versions.'1.3.2']
+netplay_compatibility = "bn6_ldrv32"
+[versions.'1.3.3']
+netplay_compatibility = "bn6_ldrv33"
+[versions.'1.3.4']
+netplay_compatibility = "bn6_ldrv34"
+[versions.'1.3.5']
+netplay_compatibility = "bn6_ldrv35"
+[versions.'1.3.6']
+netplay_compatibility = "bn6_ldrv36"
+[versions.'1.3.7']
+netplay_compatibility = "bn6_ldrv37"
+[versions.'1.3.8']
+netplay_compatibility = "bn6_ldrv38"
+[versions.'1.3.9']
+netplay_compatibility = "bn6_ldrv39"
+[versions.'1.4.0']
+netplay_compatibility = "bn6_ldrv40"
+[versions.'1.4.1']
+netplay_compatibility = "bn6_ldrv41"
+[versions.'1.4.2']
+netplay_compatibility = "bn6_ldrv42"
+[versions.'1.4.3']
+netplay_compatibility = "bn6_ldrv43"
+[versions.'1.4.4']
+netplay_compatibility = "bn6_ldrv44"
+[versions.'1.4.5']
+netplay_compatibility = "bn6_ldrv45"
+[versions.'1.4.6']
+netplay_compatibility = "bn6_ldrv46"
 [versions.'1.4.7']
 netplay_compatibility = "bn6_ldrv47"
 [versions.'1.4.8']
@@ -12,6 +106,8 @@ netplay_compatibility = "bn6_ldrv48"
 netplay_compatibility = "bn6_ldrv49"
 [versions.'1.5.0']
 netplay_compatibility = "bn6_ldrv50"
+[versions.'1.5.1']
+netplay_compatibility = "bn6_ldrv51"
 [versions.'1.5.2']
 netplay_compatibility = "bn6_ldrv52"
 [versions.'1.5.3']
