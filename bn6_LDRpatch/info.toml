@@ -112,3 +112,7 @@ netplay_compatibility = "bn6_ldrv51"
 netplay_compatibility = "bn6_ldrv52"
 [versions.'1.5.3']
 netplay_compatibility = "bn6_ldrv53"
+[versions.'1.5.4']
+netplay_compatibility = "bn6_ldrv54"
+[versions.'1.5.5']
+netplay_compatibility = "bn6_ldrv55"
