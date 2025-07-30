@@ -1,0 +1,6 @@
+[patch]
+title = "No Music Patch"
+authors = ["MarsPlayer"]
+
+[versions.'1.0.0']
+netplay_compatibility = "exe6"
